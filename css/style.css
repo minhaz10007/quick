@@ -12,7 +12,6 @@ body{
 /*header start*/
 header{
 	padding: 15px 0;
-	border-bottom: px solid #eef0f3;
 	box-shadow: 0 0 3px #f7f7f7, 0 0 5px #000000;
 }
 .container{
@@ -83,6 +82,7 @@ header{
 	width: 100%;
 }
 /*banner end*/
+
 /*feature start*/
 .feature{
 	padding-bottom: 70px;
@@ -118,7 +118,7 @@ header{
 	padding-bottom: 70px;
 }
 .s_service {
-	padding: 50px 20px 60px;
+	padding: 50px 30px 60px;
 	margin-right: 2%;
 	width: 32%;
 	float: left;
@@ -144,6 +144,7 @@ header{
 	font-weight: 700;
 }
 .s_p{
+	padding-right: 25px;
 	line-height: 25px;
 }
 
